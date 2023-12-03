@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T20:41:15.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="43N8jdqGQ0OEIZ1d_Y5i" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T20:47:55.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P4ltXtOs4cT4VdZUTo_q" version="22.1.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2391" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -11,19 +11,19 @@
           <mxGeometry x="55" y="240" width="380" height="380" as="geometry" />
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tatoueur&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="116.25" y="60" width="63.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Acheteur&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="60" height="31" as="geometry" />
+          <mxGeometry x="120" y="29" width="60" height="31" as="geometry" />
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/User_Privacy.svg;" vertex="1" parent="1">
-          <mxGeometry x="627.1800000000001" y="52.75" width="70.12" height="74.5" as="geometry" />
+          <mxGeometry x="599.94" y="46.75" width="70.12" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Admin&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="632.24" y="121" width="60" height="30" as="geometry" />
+          <mxGeometry x="605" y="16.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhrYxxY0uUsillaBshX8-7" target="YhrYxxY0uUsillaBshX8-13">
           <mxGeometry relative="1" as="geometry">
@@ -136,6 +136,51 @@
         </mxCell>
         <mxCell id="YhrYxxY0uUsillaBshX8-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Parcourt&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Achète via &lt;b&gt;MetaMask&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhrYxxY0uUsillaBshX8-38" target="YhrYxxY0uUsillaBshX8-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="180" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhrYxxY0uUsillaBshX8-11" target="YhrYxxY0uUsillaBshX8-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="310" as="sourcePoint" />
+            <mxPoint x="160" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YhrYxxY0uUsillaBshX8-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="450" as="sourcePoint" />
+            <mxPoint x="200" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-45" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=0.981;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YhrYxxY0uUsillaBshX8-5" target="YhrYxxY0uUsillaBshX8-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="150" as="sourcePoint" />
+            <mxPoint x="700" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Gère et surveille&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="152" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhrYxxY0uUsillaBshX8-50" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;[IPFS/Pinata] --stockage des designs de tatouage&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;[Hardhat &amp;amp; Alchemy] --développement et interaction blockchain&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[Smart Contracts] --logique des NFTs&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[MetaMask] --gestion des portefeuilles et transactions&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[Base de Données] --stockage des données utilisateur et transactionnelles&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="690" width="350" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
